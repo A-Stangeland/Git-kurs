@@ -17,3 +17,4 @@ Før vi begynner trenger vi disse tingene:
     - Skriv:
       - > cd Documents
       - > git clone URLen
+
